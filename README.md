@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noorah-hub
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning data science by jovian.ml.
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on ml and data science projects.
 - 📫 How to reach me https://medium.com/@moshoodmunirah
 
